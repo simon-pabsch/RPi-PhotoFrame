@@ -10,3 +10,5 @@ A digital photo frame based on Raspberry Pi.
 6. Software configuration
 7. Mobile App installation
 8. Next steps
+
+# WORK IN PROGRESS - STANDBY FOR FURTHER CONTENT
