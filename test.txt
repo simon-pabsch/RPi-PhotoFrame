@@ -1,4 +1,0 @@
-Hallo,
-dies ist der Text des Testbranch!
-
-Neuer Text in test2 branch!
