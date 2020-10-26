@@ -1,7 +1,8 @@
 # WORK IN PROGRESS - STANDBY FOR FURTHER CONTENT
 
 # RPi-PhotoFrame
-A digital photo frame based on Raspberry Pi.
+<img src="./photoframe.png" width="200px" /> 
+<p>A digital photo frame based on Raspberry Pi.</p>
 
 # Table of contents
 1. [Project description](#1-project-description)
